@@ -1,4 +1,4 @@
-# MACS1_Team2
+# ECDS2_Team2
 
 This project processes student group assignment data focusing on balanced gender ratio, minimal GPA variation, and diverse school representation. and visualizes group compositions based on gender, GPA, and school distribution.
 
