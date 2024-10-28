@@ -1,9 +1,6 @@
 # MACS1_Team2
-Here’s a basic `README.md` file that provides an overview of the project, including setup instructions and usage details.
 
----
-
-This project processes student group assignment data and visualizes group compositions based on gender, GPA, and school distribution.
+This project processes student group assignment data focusing on balanced gender ratio, minimal GPA variation, and diverse school representation. and visualizes group compositions based on gender, GPA, and school distribution.
 
 ## Overview
 
@@ -15,6 +12,7 @@ The code reads data from a CSV file, `records.csv`, and creates visualizations t
 ## Prerequisites
 
 - Python 3.6 or later
+- Matplotlib
 
 ## Installation
 
@@ -37,7 +35,7 @@ The `records.csv` file should have the following columns:
 - **GPA**: GPA score of the student
 
 
-## Example Data
+## Example Output CSV File
 
 | Tutorial Group | Student ID | School   | Name           | Gender | GPA | Team Assigned |
 |----------------|------------|----------|----------------|--------|-----|---------------|
